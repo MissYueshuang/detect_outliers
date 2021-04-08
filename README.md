@@ -1,5 +1,5 @@
 # fs_outlier_with_BBG
-Three measures to find outliers in time series like financial statement
+Three measures to find outliers in time series like data in financial statement
 <br />
 Main Function: OutlierDetection.mat
 <br />
